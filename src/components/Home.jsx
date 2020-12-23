@@ -13,8 +13,9 @@ function Home() {
         />
         <div className="home__row">
           <Product
+            id="1"
             title="Zaryadchik"
-            price={10}
+            price={10.99}
             image="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/email/asins/DURM-230BA9D9F69CEER3._V535729157_.jpg"
             rating={5}
           />
